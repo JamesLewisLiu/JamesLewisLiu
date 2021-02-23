@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{JamesLewisLiu})
 <!--
 **JamesLewisLiu/JamesLewisLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
